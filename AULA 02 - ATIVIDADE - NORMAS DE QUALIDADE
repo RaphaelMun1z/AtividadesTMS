@@ -1,0 +1,12 @@
+AULA 02
+ATIVIDADE: NORMAS DE QUALIDADE
+
+• Como as normas definem os aspectos de qualidade enumerados anteriormente? 
+    A manutenibilidade é a facilidade com a qual um programa pode ser corrigido se um erro for encontrado, adaptado se o ambiente mudar ou melhorado se o cliente desejar uma alteração nos requisitos. Não há uma maneira de medir a manutenibilidade diretamente; portanto, é preciso usar medidas indiretas. Uma métrica simples orientada por tempo é o tempo médio para alterar (MTTC, do inglês mean time to change), o tempo necessário para analisar a solicitação de alteração, projetar uma modificação apropriada, implementar a alteração, testá-la e distribuí-la para todos os usuários. 
+    Integridade. Esse atributo mede a capacidade de um sistema de resistir aos ataques (tanto acidentais quanto intencionais) à sua segurança. Para medir a integridade, devem ser definidos dois atributos adicionais: ameaça e segurança. Ameaça é a probabilidade (que pode ser estimada ou derivada de evidência empírica) de que um ataque de um tipo específico ocorrerá em um dado intervalo de tempo. Segurança é a probabilidade (que pode ser estimada ou derivada de evidência empírica) de que um ataque de um tipo específico será repelido. 
+
+• Monte uma tabela com a correspondência entre os termos em português e inglês, com suas respectivas definições. 
+
+• Considerando as diferentes versões de normas, houve mudanças nessas definições? São significativas? 
+
+• Considerando as normas mais recentes, comente porque há diferentes categorias de normas dentro da Família SQuaRE. 
