@@ -2,6 +2,14 @@ AULA 01
 ATIVIDADE 6: BOAS PRÁTICAS
 
 • Acesse a página de cada associação profissional indicada, observando os temas principais abordados em seus sites.
+    IEEE (Institute of Electrical and Electronics Engineers): É focada no avanço da tecnologia em benefício da humanidade, promovendo Padrões de Tecnologias (como a família 802.11 para redes sem fio), engenharia de sistemas e eletrônica, e publicações científicas em áreas como engenharia de software, física e matemática.
+    - Biblioteca Digital: IEEE Xplore.
+
+    ACM (Association for Computing Machinery): É a maior sociedade mundial na área de Computação, dedicada ao avanço da arte, ciência, engenharia e aplicações de computação. Seus temas principais abrangem o campo da Ciência da Computação e Tecnologia da Informação, incluindo publicações, conferências, educação e políticas públicas.
+    - Biblioteca Digital: ACM Digital Libray.
+
+    SBC (Sociedade Brasileira de Computação): É a principal associação científica no Brasil, focada em temas nacionais como os Grandes Desafios da Computação no Brasil, inovação, transferência de tecnologia, e a formação em Educação em Computação. Também promove discussões sobre soberania digital e inclusão/diversidade no campo.
+    - Biblioteca Digital: SOL.
 
 • Pesquise em suas bibliotecas digitais alguns artigos associados ao tema de qualidade de software. Tente baixar ao menos um de cada biblioteca que chame mais a sua atenção sobre o assunto.
 
