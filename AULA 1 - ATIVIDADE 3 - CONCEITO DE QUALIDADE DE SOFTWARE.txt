@@ -1,0 +1,27 @@
+AULA 01
+ATIVIDADE 3: CONCEITO DE QUALIDADE DE SOFTWARE
+
+Considerando as discussões e reflexões anteriores:
+
+• Compare as visões de Pressman e Hirama sobre Qualidade de Software. O que há de comum? O que há de diferente?
+    A visão de Pressman sobre Qualidade de Software define-a no sentido mais geral como "uma gestão de qualidade efetiva aplicada de modo a criar um produto útil que forneça valor mensurável para aqueles que o produzem e para aqueles que o utilizam". Já para Hirama, a qualidade de software é baseada nas expectativas dos envolvidos (stakeholders).
+
+    O ponto em comum entre as duas visões é o foco nas partes interessadas e no valor. Pressman inclui "aqueles que o produzem e para aqueles que o utilizam", enquanto Hirama lista especificamente as expectativas de "Desenvolvedores, Gerentes, Usuários, Clientes e Outros", reconhecendo que a qualidade é definida por quem está envolvido no software.
+
+    A principal diferença reside na abordagem: a definição de Pressman é mais abrangente, incorporando a importância da "gestão de qualidade efetiva" e do "processo" para atingir o resultado. A visão de Hirama, por sua vez, é mais focada no alinhamento das expectativas dos diversos grupos de stakeholders.
+
+• Tente definir com suas palavras o conceito de Qualidade de Software com base no que foi visto;
+    Qualidade de Software é a excelência alcançada na construção de um produto que não apenas atende às necessidades funcionais, sendo confiável e livre de erros, mas que também oferece valor mensurável para o produtor e o usuário. Isso é feito através de uma gestão de qualidade que administra os processos para evitar o caos e alinha as características do software (como usabilidade e eficiência) às diversas expectativas dos envolvidos.
+
+• Na prática, como os aspectos vistos podem contribuir para:
+    1. Avaliar a qualidade de um software existente?
+    - Utilizando os Fatores de Qualidade de McCall (Correção, Confiabilidade, Usabilidade, Eficiência, Integridade, Manutenibilidade, Testabilidade, Flexibilidade, etc.) para medir as características do produto.
+    - Verificando se o produto está sem erros e com confiabilidade.
+    - Avaliando se o software satisfaz as expectativas dos Usuários (fácil uso e compreensão) e Clientes (necessidades de negócio).
+    - Verificando a aplicação de práticas de engenharia de software e atividades de apoio no processo de desenvolvimento/manutenção.
+
+    2. Construir um novo software com qualidade?
+    - Implementando um processo de Gestão de Qualidade para administrar os processos e evitar o caos.
+    - Seguindo os padrões definidos em normas, como as da ISO/IEC (ex: ISO/IEC 9126 e ISO/IEC 25010), que listam características como Funcionalidade, Confiabilidade, Usabilidade e Manutenibilidade.
+    - Garantindo que o produto satisfaça as demandas dos envolvidos, entregando conteúdo, funções e recursos desejados.
+    - Usando Modelos de Maturidade de Processos (CMMI ou MPS-BR) para melhoria e avaliação dos processos de desenvolvimento.

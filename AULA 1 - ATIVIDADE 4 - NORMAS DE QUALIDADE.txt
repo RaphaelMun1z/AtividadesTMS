@@ -1,0 +1,25 @@
+AULA 01
+ATIVIDADE 4: NORMAS DE QUALIDADE
+
+• Como as normas definem os aspectos de qualidade enumerados anteriormente? 
+    A manutenibilidade é a facilidade com a qual um programa pode ser corrigido se um erro for encontrado, adaptado se o ambiente mudar ou melhorado se o cliente desejar uma alteração nos requisitos. Não há uma maneira de medir a manutenibilidade diretamente; portanto, é preciso usar medidas indiretas. Uma métrica simples orientada por tempo é o tempo médio para alterar (MTTC, do inglês mean time to change), o tempo necessário para analisar a solicitação de alteração, projetar uma modificação apropriada, implementar a alteração, testá-la e distribuí-la para todos os usuários. 
+    Integridade. Esse atributo mede a capacidade de um sistema de resistir aos ataques (tanto acidentais quanto intencionais) à sua segurança. Para medir a integridade, devem ser definidos dois atributos adicionais: ameaça e segurança. Ameaça é a probabilidade (que pode ser estimada ou derivada de evidência empírica) de que um ataque de um tipo específico ocorrerá em um dado intervalo de tempo. Segurança é a probabilidade (que pode ser estimada ou derivada de evidência empírica) de que um ataque de um tipo específico será repelido. 
+
+• Monte uma tabela com a correspondência entre os termos em português e inglês, com suas respectivas definições. 
+    - Manutenibilidade (Maintainability)
+    Classificação: Fator de "Revisão do produto" (McCall). Também uma das seis características da ISO/IEC 9126.
+    Termo em Inglês: Maintainability.
+    Definição (McCall): O esforço necessário para localizar e corrigir um erro em um programa.
+    Definição (ISO): Grau em que o software é fácil de alterar.
+
+    - Integridade (Integrity)
+    Classificação: Fator de "Operação do produto" (McCall).
+    Termo em Inglês: Integrity.
+    Definição (McCall): Quanto do acesso ao software ou dados por pessoas não autorizadas pode ser controlado.
+    Definição (Geral): Proteção contra acesso não autorizado. (A ISO/IEC 25010 substituiu Integrity por Security (Segurança)).
+
+• Considerando as diferentes versões de normas, houve mudanças nessas definições? São significativas? 
+    Sim, houve mudanças significativas nas normas de qualidade de produto, notadamente na transição da ISO/IEC 9126 para a ISO/IEC 25010, que, conforme indicado nos slides, "estende/adapta" as normas anteriores. Essas mudanças foram significativas porque a ISO/IEC 25010 introduziu duas novas características de alto nível, Segurança e Compatibilidade, que não existiam como atributos principais na versão anterior, além de reorganizar e clarificar o modelo de subcaracterísticas, ampliando o escopo de avaliação da qualidade.
+
+• Considerando as normas mais recentes, comente porque há diferentes categorias de normas dentro da Família SQuaRE. 
+    A Família SQuaRE (ISO/IEC 250xx) é organizada em diferentes categorias ou divisões – como as divisões de Gestão da Qualidade, Modelo de Qualidade, Medição da Qualidade, Requisitos da Qualidade e Avaliação da Qualidade – porque seu objetivo é fornecer uma estrutura completa e sistemática para a especificação e avaliação da qualidade de software e sistemas. Essas divisões permitem que a qualidade seja padronizada em todas as suas dimensões, desde a definição dos modelos e requisitos até o gerenciamento, a medição e o processo de avaliação do produto.

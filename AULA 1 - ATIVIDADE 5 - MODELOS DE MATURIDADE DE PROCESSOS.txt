@@ -1,0 +1,34 @@
+AULA 01
+ATIVIDADE 5: MODELOS DE MATURIDADE DE PROCESSOS
+
+• O que representam os níveis 1 ao 5 no CMMI? O que isso implica para as empresas?
+    Os níveis 1 a 5 do CMMI (Capability Maturity Model Integration) representam uma trajetória evolutiva na capacidade e eficiência de gestão de processos de uma organização:
+    - Nível 1 – Inicial: Os processos são imprevisíveis e, muitas vezes, caóticos, com o sucesso dependendo de esforços individuais, o que torna custos e prazos difíceis de controlar.
+    - Nível 2 – Gerenciado: Processos básicos de gerenciamento de projeto (custos, prazos, escopo) são estabelecidos, permitindo repetir o sucesso em projetos similares.
+    - Nível 3 – Definido: Um processo padronizado e documentado é estabelecido para toda a organização, e todos os projetos utilizam versões adaptadas desse processo organizacional.
+    - Nível 4 – Quantitativamente Gerenciado: Métricas detalhadas são coletadas, e os processos e projetos são compreendidos e controlados quantitativamente.
+    - Nível 5 – Otimização (Em Otimização): O foco está na melhoria contínua e inovadora do processo, que é estabelecida por meio de avaliação quantitativa.
+
+    Para as empresas, alcançar níveis mais altos implica em menor risco de contratar o serviço, maior previsibilidade na entrega (custo e prazo), melhoria contínua, maior competitividade no mercado e maior satisfação do cliente. O CMMI é tipicamente adotado por companhias médias e grandes.
+
+• Responda a questão anterior, considerando o modelo MPS-BR.
+    O modelo MPS-BR (Melhoria do Processo de Software Brasileiro), desenvolvido pela SOFTEX, possui uma estrutura mais gradual, com 7 níveis de maturidade, do G (Parcialmente Gerenciado) ao A (Em Otimização). O modelo foi criado para atender, principalmente, o perfil de empresas pequenas e médias brasileiras, sendo mais acessível.
+
+    - Nível G (Parcialmente Gerenciado): Primeiro nível, focado em mudar a cultura da organização e estabelecer gerência de projetos e gerência de requisitos.
+    - Nível C (Totalmente Definido): Corresponde a processos definidos, com foco adicional em desenvolvimento para reutilização e gerência de riscos.
+    - Nível B (Gerenciado Quantitativamente): Semelhante ao Nível 4 do CMMI, com foco em gerenciamento quantitativo para atingir os objetivos.
+    - Nível A (Em Otimização): Nível máximo, onde os processos são otimizados continuamente para atingir os objetivos do projeto.
+
+    As implicações são similares ao CMMI, mas com o benefício adicional de ser mais adequado à realidade das PMEs, promovendo melhor organização das entregas, estimativas de prazo mais confiáveis e melhoria na qualidade dos produtos, aumentando a competitividade.
+
+• Como uma empresa pode se capacitar para usar um modelo de maturidade? Quais são os benefícios disso?
+    Para se capacitar, a empresa precisa passar por um processo estruturado que envolve: entender o modelo (CMMI ou MPS-BR), realizar uma avaliação inicial para identificar lacunas, obter o comprometimento da liderança (adesão), definir um plano de ação (roteiro de implementação), e, crucialmente, treinar e capacitar as equipes para que compreendam e implementem as práticas recomendadas. É comum contratar avaliadores e consultores certificados.
+
+    Os principais benefícios da implementação incluem: garantia do cumprimento de prazos e custos (maior previsibilidade), melhoria da satisfação do cliente, redução da dependência de colaboradores-chave, melhoria contínua da produtividade e garantia de qualidade.
+
+• Pesquise por empresas que sejam certificadas em algum modelo de maturidade.
+    No Brasil, diversas empresas foram certificadas em modelos de maturidade ao longo dos anos, incluindo:
+
+    - Empresas certificadas CMMI Nível 5: IBM, Accenture e Instituto Atlântico.
+    - Empresas certificadas CMMI Nível 3: T-Systems, Serasa, CPqD, Accenture, e CINQ Technologies.
+    - Empresas certificadas MPS-BR: O modelo foi amplamente adotado e conta com centenas de avaliações válidas no país. Empresas como Duobox (Nível G) e outras como BULL, HEURYS Tecnologia e FORMALIS já possuíram certificação MPS-BR em diversos níveis.

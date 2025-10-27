@@ -1,0 +1,14 @@
+AULA 01
+ATIVIDADE 2: CARACTERÍSTICAS E ASPECTOS
+
+• Quais são as características comuns a esses softwares?
+    Os softwares de alta qualidade devem ter, entre outras características, confiabilidade, eficiência, usabilidade e correção (referente à Operação do produto). Já os softwares de baixa qualidade, como o Therac-25, foram marcados por bugs, falha na cobertura dos testes e falta de redundância em mecanismos de segurança.
+
+• Quais aspectos definem as questões de qualidade?
+    A qualidade é definida pelas expectativas dos envolvidos (Clientes, Usuários, Desenvolvedores e Gerentes), e pode ser medida por fatores relacionados ao Produto (como Funcionalidade e Confiabilidade) e ao Processo de Produção.
+
+• O que poderia ser feito para melhorar?
+    A melhoria é obtida através de Gestão de Qualidade, que inclui administração de processos, práticas de engenharia de software, e atividades de apoio como revisões técnicas. O foco está na construção de software de alta qualidade.
+
+• Onde os pontos falhos poderiam ser corrigidos?
+    Os pontos falhos devem ser corrigidos no processo para evitar o caos e no produto, garantindo confiabilidade, ausência de erros, e facilidade de uso para atender aos requisitos implícitos.

@@ -1,0 +1,9 @@
+AULA 01
+ATIVIDADE 1: OUTROS CASOS NOTÁVEIS
+
+• Pesquise sobre outros casos de grande repercussão:
+    - O Bug do Milênio, também conhecido como Y2K, foi o termo usado para descrever o problema previsto em sistemas de informática na virada de 1999 para 2000, onde muitos softwares mais antigos armazenavam o ano usando apenas dois dígitos (ex: "99" para 1999), assumindo implicitamente o prefixo "19"; a preocupação era que, ao mudar para o ano 2000 ("00"), os sistemas interpretassem a data como 1900, causando falhas catastróficas em cálculos, datas de validade e outras operações. O temor do Bug do Milênio motivou um esforço global e dispendioso de renovação e correção de sistemas, o que resultou em pouquíssimas falhas significativas quando a data chegou, levando-o a ser considerado posteriormente como um caso de pânico coletivo amplamente exagerado, mas que impulsionou a atualização tecnológica.
+    
+    - A queda global do sistema de informática da British Airways em maio de 2017 foi uma interrupção catastrófica nas operações da companhia aérea, que resultou no cancelamento de centenas de voos nos aeroportos de Londres (Heathrow e Gatwick) e afetou milhares de passageiros em todo o mundo. O incidente, que não foi um ciberataque, teve origem em um erro humano, onde um funcionário de uma empresa terceirizada de manutenção desligou acidentalmente o fornecimento de energia a um dos principais centros de dados da BA; a falha foi amplificada porque o posterior retorno de energia ocorreu de forma descontrolada, causando uma pane generalizada que derrubou todos os sistemas de TI essenciais, incluindo check-in, despacho de bagagens e planejamento de voos.
+    
+• Responda as questões no slide anterior considerando estes casos.
