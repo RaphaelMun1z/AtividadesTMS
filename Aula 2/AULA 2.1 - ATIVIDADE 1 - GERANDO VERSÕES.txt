@@ -1,0 +1,45 @@
+AULA 2.1
+ATIVIDADE 1: GERANDO VERSÕES
+
+1. Qual seria sua estratégia para identificar as versões? Justifique.
+    A minha estratégia seria verificar a fase atual do projeto, se ainda estiver na fase de testes internos (feita pela equipe de desenvolvimento), eu diria que está na etapa alfa, já se estiver na fase de testes externos (feito por usuário exclusivos), certamente estaria na etapa beta. Se estiver liberado ao público, certamente está em versões > 1.0.0.
+
+2. Como nomearia a primeira versão para o público?
+    V1.0.0
+
+3. Após liberado o projeto, uma nova funcionalidade foi requisitada e implementada. Como nomearia esta nova versão?
+    Dependendo da complexidade da funcionalidade, se for algo simples, como uma nova tela ou um novo botão, eu nomearia como V1.1.0. Se for algo mais complexo, que altere significativamente o funcionamento do sistema, eu nomearia como V2.0.0.
+
+4. Considerando a sequência anterior com o esquema de versionamento SemVer. Como ficaria o histórico de versões?
+    - V0.1.0: Primeira versão alfa, testes internos.
+    - V0.5.0: Versão beta, testes externos com usuários selecionados.
+    - V1.0.0: Primeira versão pública estável.
+    - V1.1.0: Adição de uma nova funcionalidade simples.
+    - V2.0.0: Implementação de uma funcionalidade complexa que altera significativamente o sistema.
+    - V2.0.1: Correção de bugs menores na versão 2.0.0.
+
+5. A partir da versão indicada antes, uma série de 3 correções, seguida por duas funcionalidades compatíveis com a versão atual e mais outras 2 correções foram publicadas em série. Qual seria a versão mais recente?
+    A versão mais recente seria V2.0.1. 
+    - V2.0.1: Primeira correção de bugs menores.
+    - V2.0.2: Segunda correção de bugs menores.
+    - V2.0.3: Terceira correção de bugs menores.
+    - V2.1.0: Primeira nova funcionalidade compatível.
+    - V2.2.0: Segunda nova funcionalidade compatível.
+    - V2.2.1: Primeira correção de bugs menores.
+    - V2.2.2: Segunda correção de bugs menores.
+    Portanto, a versão mais recente seria V2.2.2.
+
+6. Uma versão nova exigiu mudanças críticas na API, foi lançada e na sequências houveram três novas versões: uma com adição de funcionalidades, seguidas de 2 com correções de bugs. Como fica o histórico?
+    A versão anterior seria V2.2.2.
+    - V3.0.0: Mudanças críticas na API.
+    - V3.1.0: Adição de novas funcionalidades.
+    - V3.1.1: Primeira correção de bugs menores.
+    - V3.1.2: Segunda correção de bugs menores.
+
+7. Pesquise exemplos representativos de versões reais de software considerando cada um dos termos apontados.
+    - Alpha: Fase de teste interna, geralmente instável.
+    - Beta: Versão de teste disponibilizada a usuários externos para coletar feedback.
+    - Release Candidate (RC): Versão candidata a final, usada para um último ciclo de testes.
+    - Release: A versão oficial, estável, lançada ao público.
+    - Post-release fixes: Correções de bugs aplicadas após o lançamento oficial.
+    - LTS (Long Term Support): Versão com garantia de suporte e atualizações de segurança por um período mais longo.
