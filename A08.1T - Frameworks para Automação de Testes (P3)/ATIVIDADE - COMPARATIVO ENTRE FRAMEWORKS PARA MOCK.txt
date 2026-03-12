@@ -1,0 +1,19 @@
+ATIVIDADE - COMPARATIVO ENTRE FRAMEWORKS PARA MOCK
+
+Os frameworks EasyMock, JMock e Mockito visam reduzir o esforço e a repetição da geração manual de dublês. Eles facilitam os testes ao substituir componentes reais (DOC) por versões controláveis, isolando o sistema sob teste (SUT).
+
+Comparativo de Recursos:
+    EasyMock: Utiliza métodos estáticos para criar mocks e definir expectativas de comportamento.
+
+    JMock: Baseia-se em um contexto de simulação (Mockery) e configurações declarativas para gerenciar as dependências.
+
+    Mockito: Oferece uma sintaxe moderna e menos verbosa, utilizando anotações para simplificar a criação e configuração dos objetos.
+
+Principais Benefícios para os Testes:
+    Isolamento: Separam a lógica do SUT de suas dependências complexas ou frágeis.
+
+    Velocidade: Substituem sistemas lentos, como bancos de dados ou conexões de rede, tornando a execução mais rápida.
+
+    Controle e Verificação: Permitem injetar entradas indiretas e verificar se as saídas e comportamentos ocorreram como esperado.
+
+    Simulação de Falhas: Possibilitam a criação de "stubs sabotadores" para testar o tratamento de exceções.

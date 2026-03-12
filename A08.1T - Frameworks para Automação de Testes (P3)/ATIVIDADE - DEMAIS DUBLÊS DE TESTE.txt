@@ -1,0 +1,18 @@
+ATIVIDADE - DEMAIS DUBLÊS DE TESTE
+
+1. Defina cada um brevemente:
+    Dummy Object: São objetos passados apenas para satisfazer as dependências de um método ou construtor. Eles não possuem implementação lógica e nunca são acessados durante a execução do teste, servindo apenas para evitar erros de compilação ou de valor nulo.
+
+    Fake Object: Trata-se de um objeto que possui uma implementação funcional real, porém simplificada. Ele é utilizado para substituir uma dependência complexa ou lenta por uma alternativa mais leve que funcione adequadamente em ambiente de teste.
+
+    Test Spy: É um tipo de dublê que registra as interações realizadas com ele. Ele atua armazenando informações sobre quais métodos foram invocados, a quantidade de chamadas e os argumentos utilizados, permitindo uma verificação posterior do comportamento.
+
+2. Indique as principais diferenças entre eles:
+    A diferença reside na finalidade de cada um: o Dummy apenas preenche um requisito de parâmetro sem realizar ações; o Fake executa uma lógica funcional simplificada para viabilizar o teste; e o Spy foca no monitoramento e registro das chamadas para validar se a comunicação entre os objetos ocorreu conforme o esperado.
+
+3. Dê exemplos práticos:
+    Exemplo Dummy: Ao testar um serviço de emissão de notas fiscais que exige um objeto "Logotipo", mas cujo teste não valida a imagem, passa-se um objeto vazio apenas para completar a assinatura do método.
+
+    Exemplo Fake: Em vez de realizar chamadas a uma API externa de busca de CEP, utiliza-se uma classe que retorna resultados de um dicionário local estático, agilizando a execução dos testes.
+
+    Exemplo Spy: No teste de um sistema de notificações, utiliza-se um Spy para o serviço de mensageria. O teste não envia a mensagem de fato, mas consulta o Spy para confirmar se o método de envio foi acionado com o número de telefone correto do cliente.
