@@ -21,12 +21,12 @@
 |A02.1T - Controle de Versões (P1)|Histórico|5|Aula indisponível...|27/01/2026|https://github.com/RaphaelMun1z/AtividadesTMS|
 |A02.1T - Controle de Versões (P1)|Desfazendo|5|Aula indisponível...|27/01/2026|https://github.com/RaphaelMun1z/AtividadesTMS|
 |A02.1T - Controle de Versões (P1)|Tags|5|Aula indisponível...|27/01/2026|https://github.com/RaphaelMun1z/AtividadesTMS|
-|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Basic Branching|0||||
-|A03.1P - Controle de Versões (Parte 2)|Git-Katas: FF-Merge|0||||
-|A03.1P - Controle de Versões (Parte 2)|Git-Katas: 3-Way-Merge|0||||
-|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Merge Conflict|0||||
-|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Merge-Mergesort|0||||
-|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Rebase|0||||
+|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Basic Branching|5||18/03/2026|https://github.com/RaphaelMun1z/AtividadesTMS/blob/main/A03.1P%20-%20Controle%20de%20Vers%C3%B5es%20(Parte%202)/Git%20Kata%20-%20Basic%20Branching.pdf|
+|A03.1P - Controle de Versões (Parte 2)|Git-Katas: FF-Merge|5||18/03/2026|https://github.com/RaphaelMun1z/AtividadesTMS/blob/main/A03.1P%20-%20Controle%20de%20Vers%C3%B5es%20(Parte%202)/Git%20Kata%20-%20Fast-forward%20Merge.pdf|
+|A03.1P - Controle de Versões (Parte 2)|Git-Katas: 3-Way-Merge|5||18/03/2026|https://github.com/RaphaelMun1z/AtividadesTMS/blob/main/A03.1P%20-%20Controle%20de%20Vers%C3%B5es%20(Parte%202)/Git%20Kata%20-%203-Way%20Merge.pdf|
+|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Merge Conflict|5||18/03/2026|https://github.com/RaphaelMun1z/AtividadesTMS/blob/main/A03.1P%20-%20Controle%20de%20Vers%C3%B5es%20(Parte%202)/Git%20Kata%20-%20Merge%20Conflict.pdf|
+|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Merge-Mergesort|5||18/03/2026|https://github.com/RaphaelMun1z/AtividadesTMS/blob/main/A03.1P%20-%20Controle%20de%20Vers%C3%B5es%20(Parte%202)/Git%20Kata%20-%20Merge%20Mergesort.pdf|
+|A03.1P - Controle de Versões (Parte 2)|Git-Katas: Rebase|5||18/03/2026|https://github.com/RaphaelMun1z/AtividadesTMS/blob/main/A03.1P%20-%20Controle%20de%20Vers%C3%B5es%20(Parte%202)/Git%20Kata%20-%20Rebase%20Branch.pdf|
 |A04.1P - Controle de Versões (Parte 3)|Git-Katas: Basic Stashing|0||||
 |A04.1P - Controle de Versões (Parte 3)|Git-Katas: Detached Head|0||||
 |A04.1P - Controle de Versões (Parte 3)|Git-Katas: Reset|0||||
